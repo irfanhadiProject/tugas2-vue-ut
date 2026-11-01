@@ -1,0 +1,39 @@
+/* Custom CSS styling untuk aplikasi SITTA UT */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(13, 110, 253, 0.03);
+}
+
+.badge-status {
+    font-size: 0.85rem;
+    padding: 0.4em 0.7em;
+}
+
+.bg-aman {
+    background-color: #198754;
+    color: white;
+}
+
+.bg-menipis {
+    background-color: #fd7e14;
+    color: white;
+}
+
+.bg-kosong {
+    background-color: #dc3545;
+    color: white;
+}
